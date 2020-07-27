@@ -17,17 +17,17 @@ banner = """
 
 print(green + banner)
 
-try:
-    ip = socket.gethostbyname("www.google.com") 
+try:                                                # try block for checking internet connection
+    ip = socket.gethostbyname("www.google.com")    
     print(Lgreen + "[+] Internet : Active\n")   
 except Exception as e:
     print(lred + "[-] Internet : Not Available \nExitting in 5 seconds")  
     time.sleep(5)
     exit()
 
-Data = input("Enter data to store in QR code : ")
+Data = input("Enter data to store in QR code : ")       #qr code data input
 
-url = "https://qr-generator.qrcode.studio/qr/custom"
+url = "https://qr-generator.qrcode.studio/qr/custom"     # request url
 
 #data = input("Enter url : ")
 
@@ -38,22 +38,22 @@ resp = req.post(url , json=payload)
 
 
 
-if resp.status_code == 200 :
+if resp.status_code == 200 :                      # checking for status code
     print("\n[+] Status : Success\n")
     OutPut = resp.json()
     Link = OutPut.get('imageUrl')
     Link = "http:" + Link
-    print(lcyan + "Image Download Link : ",Link)    
+    print(lcyan + "Image Download Link : ",Link)         # image download link
     print(Lgreen + "")
-    Save = input("Enter name to save (example.png) : ")
-    Loc = "c:/Users/Dimuth De Zoysa/Desktop/" + Save
+    Save = input("Enter name to save (example.png) : ")      
+    Loc = "c:/Users/GHOSTHACKER/Desktop/" + Save          # Save location
 
     img = req.get(Link)
     image = open(Loc,'wb')
-    image.write(img.content)
+    image.write(img.content)    # Saving image onto computer
     image.close()
 
-    print(lcyan + "\nImage Saved to : ",Loc)
+    print(lcyan + "\nImage Saved to : ",Loc)           #asking for saving Name
 else:
     print(lred +"[-] Status : Error ",resp.status_code)
 
