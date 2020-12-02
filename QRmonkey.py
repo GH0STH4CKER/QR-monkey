@@ -20,7 +20,7 @@ print(green + banner)
 try:
     ip = socket.gethostbyname("www.google.com") 
     print(Lgreen + "[+] Internet : Active\n")   
-except Exception as e:
+except Exception as e: 
     print(lred + "[-] Internet : Not Available \nExitting in 5 seconds")  
     time.sleep(5)
     exit()
