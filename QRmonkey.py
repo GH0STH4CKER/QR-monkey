@@ -36,7 +36,7 @@ payload1 = {"data":Data,"config":{"body":"square","eye":"frame13","eyeBall":"bal
 payload2 = {"data":Data,"config":{"body":"diamond","eye":"frame12","eyeBall":"ball17","erf1":[],"erf2":[],"erf3":[],"brf1":[],"brf2":[],"brf3":[],"bodyColor":"#000000","bgColor":"#FFFFFF","eye1Color":"#021326","eye2Color":"#021326","eye3Color":"#021326","eyeBall1Color":"#074f03","eyeBall2Color":"#074f03","eyeBall3Color":"#074f03","gradientColor1":"#12a637","gradientColor2":"#0b509e","gradientType":"linear","gradientOnEyes":"true","logo":"","logoMode":"default"},"size":1000,"download":"imageUrl","file":"png"}
 payload3 = {"data":Data,"config":{"body":"circle-zebra-vertical","eye":"frame14","eyeBall":"ball18","erf1":[],"erf2":[],"erf3":[],"brf1":[],"brf2":[],"brf3":[],"bodyColor":"#000000","bgColor":"#FFFFFF","eye1Color":"#021326","eye2Color":"#021326","eye3Color":"#021326","eyeBall1Color":"#074f03","eyeBall2Color":"#074f03","eyeBall3Color":"#074f03","gradientColor1":"#12a637","gradientColor2":"#0b509e","gradientType":"linear","gradientOnEyes":"true","logo":"","logoMode":"default"},"size":1000,"download":"imageUrl","file":"png"}
 
-print("1. Round Rectangle\n2. Circle\n3. Square\n")
+print("\n1. Round Rectangle\n2. Circle\n3. Square\n")
 ptype = int(input("Enter Design Type : "))
 if ptype == 1 :
     payload = payload1
