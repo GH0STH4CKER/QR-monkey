@@ -1,6 +1,6 @@
 <h1> QR-monkey </h1>
 
-![screenshot](https://github.com/GH0STH4CKER/QR-monkey/blob/master/qrmonkeypython2.png?raw=true)
+![screenshot](https://github.com/GH0STH4CKER/QR-monkey/blob/master/QRmonkeynewss.png?raw=true)
 
 <h2> Enter Data </h2>
 <h2> Select Design Type </h2>
