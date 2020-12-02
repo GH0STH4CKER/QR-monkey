@@ -7,7 +7,7 @@
 <h2> Then Save It .. </h2> 
 
 # Type 1
-![screenshot](https://github.com/GH0STH4CKER/QR-monkey/blob/master/qrmType1.png?raw=true)
+<img src="https://github.com/GH0STH4CKER/QR-monkey/blob/master/qrmType1.png" width="48">
 # Type 2
 ![screenshot](https://github.com/GH0STH4CKER/QR-monkey/blob/master/qrmType2.png?raw=true)
 # Type 3
