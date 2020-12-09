@@ -12,3 +12,6 @@
 <img src="https://github.com/GH0STH4CKER/QR-monkey/blob/master/qrmType2.png" width="150">
 <h2>Type 3 </h2>
 <img src="https://github.com/GH0STH4CKER/QR-monkey/blob/master/qrmType3.png" width="150">
+
+<h2>Any issues ?</h2>
+<a href="https://m.me/dimuth92">messenger</a>
