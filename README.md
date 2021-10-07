@@ -2,6 +2,8 @@
 
 ![screenshot](https://github.com/GH0STH4CKER/QR-monkey/blob/master/QRmonkeynewss.png?raw=true)
 
+[![GitHub forks](https://img.shields.io/github/forks/GH0STH4CKER/QR-monkey)](https://github.com/GH0STH4CKER/QR-monkey/network)
+
 <h2>1. Enter Data </h2>
 <h2>2. Select Design Type </h2>
 <h2>3. Then Save It .. </h2> 
@@ -14,5 +16,5 @@
 <img src="https://github.com/GH0STH4CKER/QR-monkey/blob/master/img/qrmType33.png" width="150">
 
 <h2>Contact Me :</h2>
-<a href="https://m.me/dimuth92">Messenger</a><br>
-<a href
+<a href="https://m.me/dimuth92">https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white</a><br>
+
