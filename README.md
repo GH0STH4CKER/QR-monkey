@@ -2,7 +2,7 @@
 
 ![screenshot](https://github.com/GH0STH4CKER/QR-monkey/blob/master/QRmonkeynewss.png?raw=true)
 
-[![GitHub forks](https://img.shields.io/github/forks/GH0STH4CKER/QR-monkey)](https://github.com/GH0STH4CKER/QR-monkey/network)[![GitHub stars](https://img.shields.io/github/stars/GH0STH4CKER/QR-monkey)](https://github.com/GH0STH4CKER/QR-monkey/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/GH0STH4CKER/QR-monkey)](https://github.com/GH0STH4CKER/QR-monkey/network) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub stars](https://img.shields.io/github/stars/GH0STH4CKER/QR-monkey)](https://github.com/GH0STH4CKER/QR-monkey/stargazers)
 
 <h2>1. Enter Data </h2>
 <h2>2. Select Design Type </h2>
