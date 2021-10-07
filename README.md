@@ -16,5 +16,5 @@
 <img src="https://github.com/GH0STH4CKER/QR-monkey/blob/master/img/qrmType33.png" width="150">
 
 <h2>Contact Me :</h2>
-<a href="https://m.me/dimuth92">https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white</a><br>
+<a href="https://m.me/dimuth92"><img src='https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white'></a><br>
 
