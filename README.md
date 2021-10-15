@@ -10,8 +10,9 @@
 <h2>2. Select Design Type </h2>
 <h2>3. Then Save It .. </h2> 
 
-<h2> Type1 &nbsp;&nbsp;&nbsp;&nbsp;Type2&nbsp;&nbsp;&nbsp;&nbsp; Type3</h2>
-<img src="https://github.com/GH0STH4CKER/QR-monkey/blob/master/img/qrmType11.png" align='left' width="100"><img src="https://github.com/GH0STH4CKER/QR-monkey/blob/master/img/qrmType22.png" align='center' width="100"><img src="https://github.com/GH0STH4CKER/QR-monkey/blob/master/img/qrmType33.png" align='right' width="100">
+<h2> Type1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;Type2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Type3</h2>
+<img src="https://github.com/GH0STH4CKER/QR-monkey/blob/master/img/QRcode_types..png" align='left' width="450">
+
 <h2>Contact Me :</h2>
 <a href="https://m.me/dimuth92"><img src='https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white'></a><br>
 
