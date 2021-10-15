@@ -14,5 +14,6 @@
 <img src="https://github.com/GH0STH4CKER/QR-monkey/blob/master/img/QRcode_types.png" align='left' width="450">
 </br>
 <h3>Contact Me :</h3>
-<a href="https://m.me/dimuth92"><img src='https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white'></a><a href="https://t.me/Dimuth92"><img src="	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://m.me/dimuth92"><img src='https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white'></a>
+<a href="https://t.me/Dimuth92"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
