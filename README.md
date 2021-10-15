@@ -10,6 +10,7 @@
 </br>
 [![Github All Releases](https://img.shields.io/github/downloads/GH0STH4CKER/QR-monkey/total.svg)]()
 <a href='https://github.com/GH0STH4CKER/QR-monkey/commits/main'><img src="https://img.shields.io/github/last-commit/GH0STH4CKER/QR-monkey"></a>
+![GitHub repo size](https://img.shields.io/github/repo-size/GH0STH4CKER/QR-monkey)
 <h3>1. Enter Data </h3>
 <h3>2. Select Design Type </h3>
 <h3>3. Then Save It .. </h3> 
