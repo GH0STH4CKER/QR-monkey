@@ -1,5 +1,5 @@
 <h1> QR-monkey </h1>
-
+<img src="https://lh3.googleusercontent.com/n8Qgbngcod7GfC7nL9d384eDiCMqSwR2f5xDkXpDnzeMTVOgPjGYUSBjkFxCXoi7rUWCagVSnDPq9xifAiht=w1326-h627-rw">
 ![screenshot](https://github.com/GH0STH4CKER/QR-monkey/blob/master/QRmonkeynewss.png?raw=true)
 
 [![GitHub forks](https://img.shields.io/github/forks/GH0STH4CKER/QR-monkey)](https://github.com/GH0STH4CKER/QR-monkey/network) [![GitHub stars](https://img.shields.io/github/stars/GH0STH4CKER/QR-monkey)](https://github.com/GH0STH4CKER/QR-monkey/stargazers)
