@@ -1,5 +1,5 @@
 <h1> QR-monkey </h1>
-![screenshot](https://github.com/GH0STH4CKER/QR-monkey/blob/master/QRmonkeynewss.png?raw=true)
+<img src"https://github.com/GH0STH4CKER/QR-monkey/blob/master/QRmonkeynewss.png" width="300px">
 
 [![GitHub forks](https://img.shields.io/github/forks/GH0STH4CKER/QR-monkey)](https://github.com/GH0STH4CKER/QR-monkey/network) [![GitHub stars](https://img.shields.io/github/stars/GH0STH4CKER/QR-monkey)](https://github.com/GH0STH4CKER/QR-monkey/stargazers)
 <a href='https://www.python.org/downloads/release/python-3100'><img src='https://img.shields.io/badge/python-3.6 | 3.7 | 3.8 | 3.9 | 3.10-blue?style=flat&logo=python'></a>&nbsp;&nbsp;&nbsp;<a href='https://github.com/GH0STH4CKER'></br>
