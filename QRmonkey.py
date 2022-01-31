@@ -1,3 +1,6 @@
+# Coded by GH0STH4CKER
+# Script thieves can see the code 
+
 import requests as req
 import socket , time
 from colorama import Fore , init
