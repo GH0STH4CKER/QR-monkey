@@ -7,7 +7,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGH0STH4CKER%2FQR-monkey&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 [![Website Check](https://img.shields.io/website-up-down-green-red/https/qrcode-monkey.com.svg)](http://www.qrcode-monkey.com)
 </br>
-[![Github All Releases](https://img.shields.io/github/downloads/GH0STH4CKER/QR-monkey/total.svg)]()
+<img src='https://img.shields.io/static/v1?label=Status&message=working&color=00e800'>
 <a href='https://github.com/GH0STH4CKER/QR-monkey/commits/main'><img src="https://img.shields.io/github/last-commit/GH0STH4CKER/QR-monkey"></a> 
 ![GitHub repo size](https://img.shields.io/github/repo-size/GH0STH4CKER/QR-monkey)
 <h3>1. Enter Data </h3>
