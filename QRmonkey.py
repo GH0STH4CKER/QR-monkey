@@ -30,7 +30,7 @@ except Exception as e:
 
 Data = input("Enter data to store in QR code : ")
 
-url = "https://qr-generator.qrcode.studio/qr/custom"
+url = "https://api.qrcode-monkey.com//qr/custom""
 
 #data = input("Enter url : ")
 
