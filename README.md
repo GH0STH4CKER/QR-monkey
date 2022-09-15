@@ -17,7 +17,10 @@
 <h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Type3</h3>
 <img src="https://github.com/GH0STH4CKER/QR-monkey/blob/master/img/QRcode_types.png" width="450">
 
-😄 You can visit this <a href='https://www.qrcode-monkey.com/qr-code-api-with-logo/' target='_blank'>website</a> to customize qr code design And Edit the .py file as you wish.
+## 😄 You can visit this <a href='https://www.qrcode-monkey.com/qr-code-api-with-logo/' target='_blank'>website</a> to learn how to customize qr code design 
+###Edit the .py file to change the design (change payload variable)
+```payload1 = {"data":Data,"config":{"body":"square","eye":"frame13","eyeBall":"ball14","erf1":[],"erf2":[],"erf3":[],"brf1":[],"brf2":[],"brf3":[],"bodyColor":"#000000","bgColor":"#FFFFFF","eye1Color":"#021326","eye2Color":"#021326","eye3Color":"#021326","eyeBall1Color":"#074f03","eyeBall2Color":"#074f03","eyeBall3Color":"#074f03","gradientColor1":"#12a637","gradientColor2":"#0b509e","gradientType":"linear","gradientOnEyes":"true","logo":"","logoMode":"default"},"size":1000,"download":"imageUrl","file":"png"}
+```
 
 <br>
 <h3>Contact Me :</h3>
