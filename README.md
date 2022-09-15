@@ -19,7 +19,8 @@
 
 ## 😄 You can visit this <a href='https://www.qrcode-monkey.com/qr-code-api-with-logo/' target='_blank'>website</a> to learn how to customize qr code design 
 ### Edit the .py file to change the design (change payload variable)
-```payload1 = {"data":Data,"config":{"body":"square","eye":"frame13","eyeBall":"ball14","erf1":[],"erf2":[],"erf3":[],"brf1":[],"brf2":[],"brf3":[],"bodyColor":"#000000","bgColor":"#FFFFFF","eye1Color":"#021326","eye2Color":"#021326","eye3Color":"#021326","eyeBall1Color":"#074f03","eyeBall2Color":"#074f03","eyeBall3Color":"#074f03","gradientColor1":"#12a637","gradientColor2":"#0b509e","gradientType":"linear","gradientOnEyes":"true","logo":"","logoMode":"default"},"size":1000,"download":"imageUrl","file":"png"}
+```
+payload1 = {"data":Data,"config":{"body":"square","eye":"frame13","eyeBall":"ball14","erf1":[],"erf2":[],"erf3":[],"brf1":[],"brf2":[],"brf3":[],"bodyColor":"#000000","bgColor":"#FFFFFF","eye1Color":"#021326","eye2Color":"#021326","eye3Color":"#021326","eyeBall1Color":"#074f03","eyeBall2Color":"#074f03","eyeBall3Color":"#074f03","gradientColor1":"#12a637","gradientColor2":"#0b509e","gradientType":"linear","gradientOnEyes":"true","logo":"","logoMode":"default"},"size":1000,"download":"imageUrl","file":"png"}
 ```
 
 <br>
