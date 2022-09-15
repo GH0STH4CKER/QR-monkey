@@ -17,6 +17,8 @@
 <h3> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Type3</h3>
 <img src="https://github.com/GH0STH4CKER/QR-monkey/blob/master/img/QRcode_types.png" width="450">
 
+😄 You can visit this <a href='https://www.qrcode-monkey.com/qr-code-api-with-logo/' target='_blank'>website</a> to customize qr code design And Edit the .py file as you wish.
+
 <br>
 <h3>Contact Me :</h3>
 <a href="https://m.me/dimuth92"><img src='https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white'></a>
